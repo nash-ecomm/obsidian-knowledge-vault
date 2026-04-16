@@ -4,3 +4,6 @@
 .obsidian/hotkeys.json
 .obsidian/cache/
 .trash/
+
+# Kinobody audit logs (local to each machine)
+Kinobody Daily Web Audits/_logs/
